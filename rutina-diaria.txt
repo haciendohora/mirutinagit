@@ -3,3 +3,4 @@
 3.almorzar(github)
 4.lavar los dientes(local)
 5.bañarse(local)
+6.salir (local colaboraacion)
