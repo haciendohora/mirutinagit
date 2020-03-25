@@ -1,3 +1,4 @@
 1.despertar
 2.botar basura
 3.almorzar(github)
+4.lavar los dientes(local)
